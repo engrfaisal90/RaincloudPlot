@@ -149,4 +149,9 @@ Use a custom color palette by passing a list of colors to the `palette` paramete
 
 ```python
 palette = ["#1f77b4", "#ff7f0e"]  # Blue and orange colors for the two groups
+```
+## Example visualization
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/aa9795d5-f23d-4e71-aa3a-48000f564289">
+
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/8af81401-5b63-41d5-96d9-3ea1c276b7d6">
 
