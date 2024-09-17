@@ -1,6 +1,6 @@
 # RainCloudPlot
 
-`RainCloudPlot` is a Python class designed to create **RainCloud plots**, which combine a half-violin plot, box plot, and strip plot to display the distribution of data. The class allows for customization of axis labels, titles, color palettes, and more.
+`RainCloudPlot` is a Python class designed to create **RainCloud plots**, same like the one created in JASP which combine a half-violin plot, box plot, and strip plot to display the distribution of data. The class allows for customization of axis labels, titles, color palettes, and more.
 
 ## Table of Contents
 - [Installation](#installation)
